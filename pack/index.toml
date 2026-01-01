@@ -1,0 +1,1401 @@
+hash-format = "sha256"
+
+[[files]]
+file = "bin/modpack.jar"
+hash = "1912760b4cb6b803d8a826de603c9076b1da71ec2765e9a1f8c1ca78f65278e3"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "4a11a0ff472108b37aa1af5265de10dff70a66172814bcfe20dcad3b3c8be255"
+
+[[files]]
+file = "config/figura.json"
+hash = "35805c0c939f0b6bb80655b7d8456a1062e8cc8cf2b107518835139185c030d6"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "f4004ea25e39bca807ee6a9b569e4d3cda17552ca19de5bdf519cd476cb3dada"
+
+[[files]]
+file = "config/yosby/config/embeddium-options.json"
+hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+
+[[files]]
+file = "config/yosby/config/paperdoll-client.toml"
+hash = "305d33ae13789b164cd42d56ffe15bad2773fc63d1ae0b0a1d345ce58eaf2fc0"
+
+[[files]]
+file = "config/yosby/config/sodium-extra-options.json"
+hash = "fcbbbe7b2ec653da17b80dd0075afe1a57418560067d8936232d06b6dd998783"
+
+[[files]]
+file = "config/yosby/config/sounds/chat.json"
+hash = "0aed31b7a2f297bf70c496e78814339b51a1a18f1f17434ad919d6a8d6447c0e"
+
+[[files]]
+file = "config/yosby/options.txt"
+hash = "1d1e9395415c28bd3f7b1ac3f8d8927ccf13ab9db909db5891e157f195391323"
+
+[[files]]
+file = "figura/avatars/FiguredAnimations.zip"
+hash = "fe59a205da9ee1a8cfdfceb9de888271ffd855f61764f6868b00305cbc2181d8"
+
+[[files]]
+file = "figura/cache/avatars.nbt"
+hash = "7260be1cd44ccefd79fd2dd7be86b8706c84ad3f1e998d540f7a0009304157ee"
+
+[[files]]
+file = "figura/cache/permissions.nbt"
+hash = "b2dc784cfa4ec05a4dfc56fce4b3a529d432496d9cb417179514bb1795d17ccd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/animal.json"
+hash = "ea8c09018d63b5396479fb521e887542f461208fb456161b993028b448973759"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/animated.json"
+hash = "293622c731642b314ac8d99b7120d28acdc6e2a5aba7125139586d43de6cbd26"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_happy.json"
+hash = "fadca031a64a623c25373d32d72bfc8a300f6298ba95b9ebc29098d3e233098e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_misc.json"
+hash = "cb74c7ad3d5248e7735a7433aad5bf0df34c4a9e20a4b3eb3ede1cbd6f7f42c1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_sad.json"
+hash = "301cb406b5db59f2b4dbe85d8267a5e53a3d31859796f05e31de6d63e63ac3fc"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/face_stress.json"
+hash = "4244b8e8835695fbee377ff491a06ed91c54e1982529c3541edd6dcf552963c1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/festive.json"
+hash = "e2cec9de6baa5701aba3dc72ef7a34f040bc7e5c0c30b818b121c41881841dfb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_a-d.json"
+hash = "327a02631f6a105ff8b929fb30e036ebf188e3e0ca1fc8a13a13833a3ca3c563"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_e-k.json"
+hash = "139e9eafd7b830a8a69b3824188c2372bf9daa47cfa726a9dfa5ede687f76363"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_l-q.json"
+hash = "3eb3d5ed7097f2a74abe71093f9bc3f4f19decc30ae4e444f015ab6413eabf2c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/flag_r-z.json"
+hash = "e7b302dae6aee1bbb40d9b550fa9e898fa3fc5ae6541c997738d47757a16c7ea"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/food.json"
+hash = "21777dc086690b4dcf19a47dd693bb4da2ccaf22c6b0450842ef10e72fa3dad1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/gesture.json"
+hash = "ca95961a2f356f296ab8bfde0824c0a214b362b2063eba599d2768e8b4bb8c5e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/heart.json"
+hash = "9f0e7e5cb41d85a47e81474c398016bd34a9fe5b3af1af2600f42c821b10b029"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/letters.json"
+hash = "2d2e0a587c2799234630693476c6b507de532f6871edd7aafd09d737c5b7f89c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/logo.json"
+hash = "f3860366f2da8e3bdc0f750766bc22c6fe746683b57d522b32c3c1e32109a5be"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/meme.json"
+hash = "1b60fcebb306e1c77ca9872f667d6e3983723b8139729badef752d54982de108"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_animated.json"
+hash = "8ee66231df276528785b3b90d0c023643e0557d6ed8d6e44a59366233313aed9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_blocks.json"
+hash = "ff5be68d4b4e62f07857aae2c682abb1f0dd3f8fef893167826876ee73be3033"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_items.json"
+hash = "6ea10f853cd3d53a1d82cf555a69286446ed316f93ae6c5ee59b99dd87d6a32d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/minecraft_mobs.json"
+hash = "035a3ea2304ed6219479e8fe74843cd449ad1705130e7097dfbec4b1e3ccdaa9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/misc.json"
+hash = "7aed24de0ef70cc1ca21d6749e483f0c97ea415f0fca084d73e72a4166263ede"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/nature.json"
+hash = "19ca4482d6662970b5dd777aa642f8d5fdc2c2c39de55c9fe373c1b4194fbbe1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/object.json"
+hash = "33e6a020f8a2b411299552be6fb394da526784e1fe7637a33e77ec0d19859a68"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/portrait.json"
+hash = "4e08a440e2c036c9e37bb99f2c1c15bea9c0eaf9b8775b29c61978150d9256de"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/pride.json"
+hash = "6943f742a5054d0b97258308da5852f5bd5c2cb56ecb07388064935da8bf6024"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference.json"
+hash = "80cbc0399fb1905e60249876b1e84f06f56be36982929b7e39a1978a105bf156"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_bloons.json"
+hash = "bbb80cb680bfc0e1bc58318727ba79a0da7addd5ef32b1b26f96b58b31aa29dd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_logo.json"
+hash = "f4a44acd45af1ab7812be37ab2c4d5d3c7ddf34bb555225b2d48180b8eb4a58d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/reference_retro.json"
+hash = "618e29cfce27490851363cf5f964befefb8ad785e106f33b8092ef2f72fe5bb8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/emojis/symbol.json"
+hash = "aad96b36cc170e5ba5bfb96eda785a3fd713730ca9d9d7913b04ca472767f73b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_animal.json"
+hash = "fcdac13aef6874f3c0dbf37d7da8211322a4970c651d8a4dac5fd8657d75fc24"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_animated.json"
+hash = "a8cc1a11bbf2166e8590d4599e4c1f61816986ff634fa5ca8c2cfd98f9e60b32"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_happy.json"
+hash = "377c81e9c309e18f41db8100f1144e0308f006949cb910c0f53ed9fc9b5280d3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_misc.json"
+hash = "51663603fd1b04f3bc8c40ed16c4337f6c6b599c5d7940921e230aeee0f50241"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_sad.json"
+hash = "330a1573a98e8373b2115dfc490b7e64f4655298e7d6c6328099f12744bccde5"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_face_stress.json"
+hash = "70c40082ae35e512eaa244d14dca9383143cc6c914c667180c50715601aba362"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_festive.json"
+hash = "b008ad78be906fd69bd968f22b89c13cfece749cecc27398c78b627c39488139"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_a-d.json"
+hash = "8ef37e59c9e827bbb9306438b5d6e0c7f7750b488adcbccb42e37ff28fbd16e6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_e-k.json"
+hash = "605108d33a91473d88a12c2d612a95fa438cd5135bfeb0aa4a2e6b38c673c5b5"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_l-q.json"
+hash = "c46f504830fe196652e90ef4d037ffa71cfbf211f312410ecda2bf5d0b88881f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_flag_r-z.json"
+hash = "d962613f6e2479eba4be164a4b7c91972edb50e9597409a3ba0a478fe8d88c14"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_food.json"
+hash = "64e24d03eb8c346c4287390ab6cc10c13d9fc49357d8f5dbbbb6aa96d334afb1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_gesture.json"
+hash = "0589b4a67d2a4ff6c8b60877def9d5f8425bdf62b8f6efb165d7581a7200f0bf"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_heart.json"
+hash = "0963ac3aed476ac73b31d142d75d42016c6f36819f353359ca181942011261c2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_letters.json"
+hash = "18f45fb785b45caf188cee0688d434f868f07ee0fc013bcbc377da56765f9c22"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_logo.json"
+hash = "d20a396c42823d531ccc303879ca5b606a3b02a79afb9220546fcc9355a7cae8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_meme.json"
+hash = "7313bd2e2790c09bcd5efb9eea541b3179c87ce964c6194d0709d3404911581f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_animated.json"
+hash = "8080362dacf20a47719dd395445a62083ed57afc72cf03a00ac81ec637d2dc9d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_blocks.json"
+hash = "9e6c7eedb24b9d66d2eae8bf70a326606acc279ce0fff2467c110bf2f184c4cd"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_items.json"
+hash = "eb3a2ae2d8626555cfc5e036490ab0a7936dfe7366d28384b8cef77c9c348b9e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_minecraft_mobs.json"
+hash = "c4d8c3a61aed8fc6219ac54e9b570eb18090d7b576491a2709d7136e2483c586"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_misc.json"
+hash = "90672b84415a164cb1e4af03539a5e53ebfd49db700e347f0aa64f578e29fd51"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_nature.json"
+hash = "dd3e104e42c099c0e2e9f01fb515ccaa14b7616443f20770679bfac12e8118fb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_object.json"
+hash = "d6bc3b51aef71dafbaa3a9229b3f3e64cd70f8adccf0665c3ca6c0bd0d85fa21"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_portrait.json"
+hash = "c47112db836cc388f70b2427042dd5ab54b15f2a5ef422368b5913d208da8673"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_pride.json"
+hash = "d21719a35214e23edf80dad6d556890ac1b130f77b2ed5db8087d361b77109c2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference.json"
+hash = "149277ccb11f9b6488c08c8ba0acc0f2e9c542d7a30347372566ac3a873f5735"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_bloons.json"
+hash = "4b31e4c1ee670db10a2f2b164c4fdcbfa02754b11e355a7cfe5a067d3166ee90"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_logo.json"
+hash = "de1ebe4cdbc66e4af078eac6b301af650ab918c7c782856b0d24e5858d4372d9"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_reference_retro.json"
+hash = "625ef7c535f38d2f175b58aa7b7a6924cfd0e2bda04daafb774d74258d756901"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/font/emoji_symbol.json"
+hash = "cc0d4b5fc7f1c440b90e7333bfe584eb84e61d2d235633f08de80e2d9458c627"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/cs_cz.json"
+hash = "a4ec13988da52edd3b9839a3b2dfe1a0a9dd7d7e429b06a1c648b79e23766d53"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/da_dk.json"
+hash = "49cd1f49afd56f29d2b8a46326fb65c9887119813ab56fbc216a5acc7fe3ee74"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/de_de.json"
+hash = "3bb8da827bc3f9c9ea227548ff6ef3921b73e3cef49d581aa50ac1f48f40519e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_ca.json"
+hash = "0268e8a2672911d16401fec9b5a47e6a337fb370e88276dfbc505d4c085def9e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_gb.json"
+hash = "66c0dc8ac2a911d221742d892d8180183eb62749c9c512a9ff9658e4f64db350"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/en_us.json"
+hash = "01cf8a4ad53841175d4aaad9e5d387682c858e44536e3adda48d63b058019884"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/es_es.json"
+hash = "360890d454b877726fd3387035fdec9ac371726aae8e656b8a3e377ea7396a18"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/et_ee.json"
+hash = "722249283ed72abed8482e7fb7c47072b6befe8c6a5dc495c09fdbdd0ae729d2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fi_fi.json"
+hash = "7b35b97f4a2fd7828a5ef91ddca8d29b2d440f77cfc6e51596b9dde36a2df4b6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fr_ca.json"
+hash = "b289163c44865f05c76467c3f23ed1a601f5e4398f5b5f86c8909a736daf84ea"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/fr_fr.json"
+hash = "ad1d86cea6c46fa50ba8efcc90f5c98c586d6ba24030562664e2299918744248"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/hu_hu.json"
+hash = "0c142dff08b531689530f66c4faee9d3ac22448791028381089776a1bf4d86e2"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/it_it.json"
+hash = "243889313577d0794c3c358a43a1e5cbd9aa39758e3cd3b33abcbc95830eeafc"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ja_jp.json"
+hash = "43f2bba4c7668c3b8b4adb780600cd10c1921d4325650d94c09720aef6f1bbd7"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ko_kr.json"
+hash = "09c7d779bb3ff8ec6ae9b9999610d924f68d63402352888135411cbaf72ef6fa"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/lv_lv.json"
+hash = "2572bc8738cfcab7b23b9073f3986bcbf8cad694bc5dafc7a6d9d9e6d72bc088"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/nl_nl.json"
+hash = "c1f7d850f21fe185d95a36d9379e65da691b8fa08b3cea1fc9af05d1a282c5bb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/pl_pl.json"
+hash = "6254870f9d13aaf874253a98afb8804f6c5a34513747c19dd53a147a66dbb367"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/pt_br.json"
+hash = "23eff2963b2c5e545d57bb4b2ce0ce1c51bc2aa4c3f978dbf13fbff4bf905ad8"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ro_ro.json"
+hash = "adf6fc6e527ea1aaf3aa83b8273434ba649fcd10e44c9c61a3ed6ba0c2189a1b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/ru_ru.json"
+hash = "ecc771e8e8bf4fc038c3843c1c262e78fad8c6e12d45490b652e338f180a8a42"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/th_th.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/tl_ph.json"
+hash = "7a54cc13a3efac1afe982d6df54c2a56ea53732daa880635da3e93363a856b49"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/tr_tr.json"
+hash = "1b98ac3c503906e85cbaf009888a884569f6b1359264556169ac7bb976c7894f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/uk_ua.json"
+hash = "658e27e97f81157210584288b2e1e9200d5af577ac4bf1616e73f19b5248edba"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/vi_vn.json"
+hash = "857234f135d74304b8155cfbf44a1c53ff0920da34ff2fb3d6b397266adb8e5e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/zh_cn.json"
+hash = "3916951b8b89d4db721b492e7d0f78afa1c2624703f56742223bdf72c9b0932c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/lang/zh_tw.json"
+hash = "c15dc4d5f10529be54478f76853b2b2700ec31b2a3408fae100e55955296779d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/palette/palette.png"
+hash = "0865cf66a8e71a7905753cbe077b26d59b3b6339166bfe0a67d34a2c1c69429e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/animal.png"
+hash = "1e9396f26f0b70b90acae849ff62e218c64b53b6e7ba163a91c7c251f716e1aa"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/animated.png"
+hash = "d0bbca93fcaa0f1d16c80ef06ede5906770e85c930f7c167f5a93c6c3759c035"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_happy.png"
+hash = "9f0f7ac29a38530993402c91365789c9df87847dd10b4a7c2ed9cc9e45cb251e"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_misc.png"
+hash = "201410b5f9babc3c09eff220b88174608b1c02f367635c99b998b07871ed2b8f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_sad.png"
+hash = "1316c3fb46e7706a2bc378004e175f2e834b5fb96f3890b805f6424f6701e76f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/face_stress.png"
+hash = "b8bb4e75fa8756218334a519c6fa6e01d02022f4ac3e821aba2e000dcb3b84eb"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/festive.png"
+hash = "c0b4434022f2a15eceaa6e27a0eaebdd8c2a1aa309b60cb9c725899fde35869b"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_a-d.png"
+hash = "3aa129382e7ee24bb517f0d8b6c5efb21d4a1e19d38b79cecfb76269c646abb4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_e-k.png"
+hash = "38818d23a7ebb797971a2cf729bf665ee494e0ecbbe0574f8642687c822a9029"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_l-q.png"
+hash = "4df49dd253017a6868aab737f2f174bf38964e9319ce2f55f6de400174846165"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/flag_r-z.png"
+hash = "f35230d8f1d216be0c3962aac6d8e0b1257c78941a97202302077f3dc6a57b9d"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/food.png"
+hash = "8bd9a0843fc96e9c4be72e44046c08f3172ade8572955f4f00d5e608d933a533"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/gesture.png"
+hash = "6ad26a270f7b048d948e79493206780f8a72a66d8f6a3f638cba0ab0b1fafc04"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/heart.png"
+hash = "c4610d117c13b80568d0a6efc50b550ea299b3a6a4de007997ff3fbe4911782c"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/letters.png"
+hash = "77b111fe481b4e90b6f6c70c30279f9225d3424a70f5c872539b8bc23d98a9c4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/logo.png"
+hash = "fe5f06d58b41c363bd61482fb8a97a8c48f6c9d7ce3c7b5bb1f88c458e2976e4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/meme.png"
+hash = "c9b52ac13b848835853e98e108744ffec0442944d838c95c5639f35f73c935d6"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_animated.png"
+hash = "acca2ffef22b56b7b77562191730f0e48d1a11aa9f8221faa71dfebb59b51d15"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_blocks.png"
+hash = "3ce60c4b3e5f528123f40276a664533341af755b42808dc6a42385b0e894a3b1"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_items.png"
+hash = "eacec7b025d5129482d45896e9987bd4de8bf1244e076846be65eb05c2e6553f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/minecraft_mobs.png"
+hash = "0063ce27e021e349a7f95625e5e6ad37cd2c0eb0279a495574389670e05d8628"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/misc.png"
+hash = "cdd02621170e156f4d98aaecba2f616ec4237951f7d7f76df42c9bb24206a61f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/nature.png"
+hash = "cf538d13df64d209588fcf4b0756ba275c14d8d085e6ff9d6f75f9159de9f1a4"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/object.png"
+hash = "4d2a4b630387a34d652d3dc4ebf3f623f97ac7db523bcc4947fa5e2e9775830f"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/portrait.png"
+hash = "9928f1e6e2a280559a94990fa9f111d4862332e888b52c9b27bd92c7ca85e4ef"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/pride.png"
+hash = "fc78e78da8701480bdf6e9e46132b987d51bdd820c3a2fd4a870dbbdac82c458"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference.png"
+hash = "5fc874c40fc62cc1dafdfaa90327f33b233ac6df72c976a0792465fb5792e244"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_bloons.png"
+hash = "027424096f7ea0db4cfbcda435dd176bb36ad99ba5b1591ca50d4e86da2fa1e3"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_logo.png"
+hash = "3b2be5b46cf0ba442ba561c84ad509fd9b89248e761fad024adf9eee96d4a905"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/reference_retro.png"
+hash = "2412dc025bd473c3cf6b9235437d470553aa2fcb47dc3d8e547463c5cf5a4386"
+
+[[files]]
+file = "figura/cache/resources/assets/figura/textures/font/emojis/symbol.png"
+hash = "bdd49e9fbde6032b664c460baff97ac62e48d63aec98a66b6befc687d9298311"
+
+[[files]]
+file = "figura/cache/resources/hashes.json"
+hash = "29068d789d13f3db56ee36d5877918d92b91983c0e0ca5bce4223ed13112d256"
+
+[[files]]
+file = "figura/cache/settings.nbt"
+hash = "c280bd09da6c4f64da16ab41fed91c9e1c20db7bee2125200f895a5eb11e18d4"
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "362a11c37aab6033f98b1f20a9c7d7d3955cc1f1a22d241292f10a58256fea62"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "c37e974fbca38618be61fb2807649a1b3be853cbda59badef42bd7ea22171d70"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "a966c425617e0583ccadc2fe7f521a53833c93f4aacd9c89c24ad7cc76eca97a"
+metafile = true
+
+[[files]]
+file = "mods/aquamirae.pw.toml"
+hash = "caf733526eccac9b26d70b2649d5fa99d832d16a2379a9aa2515049c77765077"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "44505ec6c8d7ac5948b3f192cff3db191b07c4d39d501ce3af916006cda3c5a6"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "698b75b7fef9f88a359459d953b7e4ed9f0ee8435ee69deace056b434da77d83"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f8b6ef08945410e1341212a2723477487fb66a2c8fd67dd201433658791d298d"
+metafile = true
+
+[[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "e65895da85cfabf53c1cca6eb26d39bac71d3628cfd1675c7cbf84395d8a2466"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
+metafile = true
+
+[[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "f984ed4b9fcd6d1d83236bd2ce71b1ebeb248f3226d16230d5cd8245a4ed25b0"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "1b72c550b3ad291ba15cc550d5ae3287f7a94b53c6e29fc3d31b438f8437bce9"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "da8f37493429073f4049834311cb3308dfd3a4d2c0742e63e25eaf3f4771b13b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+metafile = true
+
+[[files]]
+file = "mods/clothing-of-the-lowlands.pw.toml"
+hash = "2fa2a288ee8652225074eccbd4d6d6d29ef0e1f7cb730ebaeb0e781dcfa3fb0b"
+metafile = true
+
+[[files]]
+file = "mods/companions-mod.pw.toml"
+hash = "da15ae65259784bfc8edd15f730ee27b557ff52dbc1561a88a6beb2207874b28"
+metafile = true
+
+[[files]]
+file = "mods/compat-ribbits-x-tfc.pw.toml"
+hash = "c7e95a1246bc73ce88e95ecd7f7a2d54de38eaa13f88d7538deae2300357809c"
+metafile = true
+
+[[files]]
+file = "mods/complicated-bees.pw.toml"
+hash = "5eeb5554d6a80035005cb7c679c85bfb073d794161626c5248061f15a4843eca"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "28053b4a334c4079b5d4c7ea2d3b8d48f8fa61420498f1bed0ff83cd316bbba0"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "d62480bc696affd0a714d4cd74b5dc64a072b9d67d505b52df87ebcdf9650a79"
+metafile = true
+
+[[files]]
+file = "mods/create-ars-nouveau-compat.pw.toml"
+hash = "2152327b9875697c55ea9f31809f83b0ae143abd8f5efe6e2ae69ae51432cf31"
+metafile = true
+
+[[files]]
+file = "mods/create-numismatics-utils.pw.toml"
+hash = "a991f6a55e84cbacd4b78ff07a71bfef264d8b2e25e657b6c08873a4af72772b"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "1a0099366159fe4c62c19e82b512375eaa528574cf1a7d60fc7b2c96e8a83a51"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6a62d8663df5fe33f18c8a0d3784a3aab183b252c620c45fc98e677a71b06cde"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "dce7de4e5a948da16df350f36ffdd1b0be9843041777b0b2e3e1e1e87e1b1c9d"
+metafile = true
+
+[[files]]
+file = "mods/critters-n-crawlers.pw.toml"
+hash = "335dba225c4bd9a6424a2e3105b39eb38d376857c891a4820435ff0d0623563d"
+metafile = true
+
+[[files]]
+file = "mods/culllessleaves-reforged.pw.toml"
+hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
+metafile = true
+
+[[files]]
+file = "mods/cute-companions-ducks.pw.toml"
+hash = "1eabb5d08f569d30dcec6ab80a2401d46aa8658ae486c20c7ce906c902092ace"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "02e3f47ff5a2fa074996387e14c81718e5c4df16dbe75ba1e1021157352f7815"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators-forge.pw.toml"
+hash = "53765070751a193b0a66efd6886b9b8b57253c215ee9f2918c5e492df2b2c1ec"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "5b2715bd2dbc5ed20fada1a5f4fe661cd1e4a3ebe7393c92541581ea84f88587"
+metafile = true
+
+[[files]]
+file = "mods/dripsounds.pw.toml"
+hash = "728db627e1376b9e882a269b6956acb9e9924df23b77a1b5375e3343d35839f9"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-bwg.pw.toml"
+hash = "2d0c79b99db7ef6f7e1a269bdaaf826cd95219caf7a66dadee5f0f12da7acdd1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-fintastic-fix.pw.toml"
+hash = "eb959c8dc6e8a570442c74de372d9f2d8857164c2471cee04822d0d0eae52a7a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-the-twilight-forest.pw.toml"
+hash = "fbd9628f2ed4f16ed992894279c280c10c5fc9bb5b80b72a62be8edf1d5f9eea"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "dc6ab17c3462ee23681f85b2102195d9d7099f6ac916b2ef47333bf498d4ec7e"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "22db8eb1360485e12ac4186fea9b9b4660eee0445ba19ab1ce92e1546b5159b0"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+metafile = true
+
+[[files]]
+file = "mods/environmental.pw.toml"
+hash = "9825060ebdf517eaa5e9d341fcb13816698aa0a39c21953439681e61c36943ff"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "7cd4c2565a55c1903820a8c2e6e6bff5c29bf7623dd18aa03d8ba39c2b6d5025"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds-forge.pw.toml"
+hash = "3d5916b5e78bca0d579dd08390e8046463c1c975ce9f71db4f6502c5d9e704af"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "e2396d07e1058482e0792e8c7aa5c90cf54e198c8c4bf64293ec6b5abe5e91a2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
+metafile = true
+
+[[files]]
+file = "mods/fastboot.pw.toml"
+hash = "d29b6a0cc5aa2d6402337f7545e89271b095a9ddab686e921d793afb5d1883ce"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "a828c60907bd972cb75263bce3bd6bacfb31b98ccb3d5556ad10c7be81258e5d"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "9c2de144691d57dc2c1833b131da1d3102713cb12020dddce03558ec8b65a3b8"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "3ec4483d4b2c2c0456b5e0134ff22d66c0bd446ec8421e4049965014a3c15286"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+metafile = true
+
+[[files]]
+file = "mods/garden-trails.pw.toml"
+hash = "8d02697cd036dce3a936f6c3d36137014b358a84a66ae6971c0c281f5cd3721e"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "499b9dcff2708b6c4152ff49c5f320d87bb803d0b47b4d88778437c48a59d1f5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "603b8fe672b8f62539763ee788341ede0c6441abe0cc3cf5f1b58c1094714b27"
+metafile = true
+
+[[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "348caaa052e1a4bee61f26bc15473db24634c03dbd93614b6820304454022152"
+metafile = true
+
+[[files]]
+file = "mods/guard-ribbits.pw.toml"
+hash = "b5bb775ba096e4107b098b79891aaa9f414fb65a1f3effda6ab310ac1744b58f"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "2d1f7089fae7d676321595a1228f15e9a160a1aeb5519d5508c0f4015781cb43"
+metafile = true
+
+[[files]]
+file = "mods/hyrule-terrors.pw.toml"
+hash = "fc2b3116acad84e40c1182d327e56a946c15d8075fc015374bb01eea1ee05c33"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "5851bef35e786bfcdb837dfc380c4bd22c857434b2997235a551b3a0cf72d158"
+metafile = true
+
+[[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "a7fd74d5d5680775d2d9b83d8a4924c0244169ffb0961dadfb901a362eb1a935"
+metafile = true
+
+[[files]]
+file = "mods/immersive-damage-indicators.pw.toml"
+hash = "3b73b6f893ef033cfc5126b0ed41c6d7410cdb634c272bc100286d8bc6f646f9"
+metafile = true
+
+[[files]]
+file = "mods/immersive-messages-api.pw.toml"
+hash = "3a86d8e0df14494e70d9bcc6389498f6b76faf65cd24ae3a81dc5edcaf964390"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-farmers-delight-bark.pw.toml"
+hash = "cf762e3ba2854d668b97db40e304a94d54904e6c830d22697775c20ef61fb2ea"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-forge.pw.toml"
+hash = "0df8d2be472d58b97f73621390c6d3cbaf538de65e9092c03146f102bfed63fe"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "9779719134e508c31ef0cb08ed272daef6d3b4a8a5bff07e48f9695e88e5a410"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "a905e45f361d2548cb1a84de83b99f781ca58dd5542d4b5acf67fac444264609"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "7df1b6b4668a3c08428efddae6daaa540cb2c9ec73eafbb89b0bdbf418b7209e"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "140a929fda55621de5a03378f7478f587e0a1e912a3e46815fa7305070d2c71c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "8f359d190506a6f824763b8e7c390d9e22204ef11e3ffa5ef980000d17e2c2b6"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "29b62d42548542296d9932bcbb8a93ffba0b75b7cc859a67e596aeb1e048ace2"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "4966571305d5b3636adaabdae0ca934d287822b99f9bb056e1dda55e41db6b81"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "35c0251ad56fdf68faef3ea142fe0b76016937ab6fa52b65ce222ea7d1fb5b74"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "0af5e6d226551aea13a3f7986e1b9092e9e574d696a2fad35dad2875daacc402"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
+metafile = true
+
+[[files]]
+file = "mods/luckys-wardrobe.pw.toml"
+hash = "4e9305c9c381d972097d6d59110b926b13990320e8b39ede9c5818abc646f790"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "04cf03daaecfc55b6b8385b52f46f76886dcc132c3976dd573b4ac3904591462"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "0e41cce34411af4bfbbf28984255aa570add09a34281a9651aa055780c27f69c"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "9653aa00a74c2223f416b2846e04017d8b6a45f8b38c2e6b5f0c9e66a9a91eb7"
+metafile = true
+
+[[files]]
+file = "mods/mod-primal.pw.toml"
+hash = "96bb713fcb91475ad68e5bc50a7d52d90c3df90dc59e497f057079eb60ab94a2"
+metafile = true
+
+[[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "be8382d4f45cdde9c21b0ea8087081c7054052469660b966b6883e082ba69e14"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "17e4dafb5a358e998d47db18a2d0b2d66360a835adf1b3cf06514398e99b3017"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "5f3e4e66e62b6b0b1665a5ddcf4c5656e8f7d2a64e4f2406366145412add08c8"
+metafile = true
+
+[[files]]
+file = "mods/more-critters.pw.toml"
+hash = "511f4917facdc13ad5bfe8b4ee2a7af77fe11f3e9f1f42ed6a45870b90fb1490"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "9adb961d42928ca5f873586b6595d028dd35ff3226807d8ab41e574c68d501c7"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "6877ed5190d43e5754f42e07ae602d95cf9aac4a2764173a7ba0d6e4e649dccd"
+metafile = true
+
+[[files]]
+file = "mods/mtr-moogs-temples-reimagined.pw.toml"
+hash = "4d7c99f1c7081c81222d04fb2544c293f71090b824793b5f99b27d1af15790cd"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "318a137293d0919ddeb5e25c3facd5bc83de60366ac6cd5707d28ee650330f62"
+metafile = true
+
+[[files]]
+file = "mods/no-tree-punching-no-additional-features.pw.toml"
+hash = "3f1938bc7c1215ae16a22895e9d75d40fae907f6ee5e238bfd5d284282bcc0b5"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e1b49409243ca8ccf9d1ef4d458dc1a887a19f9b18dcd5088d56c19073d57b43"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "5f36a03fb4cf32373ed78ee4813bea0376eb62bf287ffb640375f1c9b5795949"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "96008b869b133a400c97313afa460bda3b4d43aeddcafaf04c4141f9193f3095"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "a4cf75dee4a240fb7788870b383e44e0bf00b3c93734bb9862775430fe03d886"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "060967c337239159637dc07818af3020eb7c323102fe21f4171645c030e3fec7"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "1deb44f93c9d72a2fee8b3b33fb3da84e228c0d92062111a3d205ebe18225c66"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "1b3c4b6ada103a0083c960ff093a9f2db70e98a8b22bccffcf62382468796725"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "3722f897bd3519b3bcf1bbb27eb26aa36ac9a581520056859d1ff1c931f3cbcc"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "0fd5b27087ffe34d22dbdbdec6cae53f0a58b839ab8e4c423a5255f2b406e27b"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "fc6fbe4edaef15637092d30600743dec1bc9bf6055f71a5ff026df108fa2b532"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "b613f3c2e55bdf5562585e98b03b1513ae26a003b32a19cd2fce076e293d7652"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "70acbe76903121faa88da57c77a8a1eada9c0e4b58143abb8ccd57b766b14148"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "b8c2ba91c889b159d1b85c11293927958401b4df1898dced176bb70984a22259"
+metafile = true
+
+[[files]]
+file = "mods/rustic-engineer.pw.toml"
+hash = "38ed5f8d258c215a755294c23c8b5780bb21626723709014dda249a8f87bd1d7"
+metafile = true
+
+[[files]]
+file = "mods/scuba-gear.pw.toml"
+hash = "e353caf047b1592faa8819c667651e9666d2939347fb669e6fd09d77847a0194"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "b56161ba01e298c7a28a593dcadc2d1b802c49d7bbdc01d0c7d03a31e04b6408"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4337bb9f8d504a42da9ca4d56041e1353aa2f84e5470308e3806ce5650691044"
+metafile = true
+
+[[files]]
+file = "mods/shipping-bin.pw.toml"
+hash = "9d639cf5368ef8492d7e59c10ae8a0adea46a7c5c1eb801aee907d4b92e55632"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "96faed6998f9d3d7240f35111b9793370b83e6c4f984545fa228f799398595eb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "93123611f5de9f6c8b25e1fe2e1b7defdcf65810fe3aeb9aa8800e8ecfafa6a3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "69dd7341ad086e0fa23bef3ba04237c4c74ea76800cf8289050b09eda3268c5c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "33b4d30364583bdd7cde0eb6dddd546abdbb4fc59697af3cf3b59a3beb8d0729"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "dff2df7c34cadde67c632ef4cf043468b8dbc9c2b53b735984dd7e45dda2cd8d"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "3fff9456c0ef97caab6584a10517f20822e138b627da4b26c8c46e6330d7e7cd"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "ba7bd81b4ddeda5d02873fe0f6d4bdaf37b9a663f8ed657a38bdfdf80097392c"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars-reforged.pw.toml"
+hash = "fa640aca6b0c3224e12ea68a6037dc89b2e9a451ffa9f89aba0bfbcf610cbdb0"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/sunken-spires.pw.toml"
+hash = "466ff1b84ab490b6ebe83601672613fbfb1ed46584c5b5f18b08aea4f81f3a07"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-compat.pw.toml"
+hash = "ecc40d6563a978de8d6138c5c1c0a959f6cfd18fd5da00c940902b974f8a6b72"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "6752445178329f62ab24db97caed7760a32323ff3313553e144aa1b4f119b455"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "31883f2697767614c5b0671e9600c4e584c8e60be8062867667ddfc9d2624e23"
+metafile = true
+
+[[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "8d93b245da89b2de3dfe3f8ddc2c24184b23060efb4c61e9c30eeecbbb8dd76a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "b998bc85c8cdd0a6b2c07ec18aebcceb43244a2446bc221f4ee10cadb6f0ba1c"
+metafile = true
+
+[[files]]
+file = "mods/tinker-delight.pw.toml"
+hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "f9615397542fe44fa1ee41c8ecbac25aaf59875c86a8fd65a853d1b2edb9c48e"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-extra-integrations.pw.toml"
+hash = "c80357bfb95e29b996819dc314531ffddd0454b4db8c3356dc8dd8df727ddb51"
+metafile = true
+
+[[files]]
+file = "mods/tiny-dragons.pw.toml"
+hash = "bd94dee2d2335c91d78ce18c8f053fecbaf7ae30aa53b06356196f6ee1df8cf5"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "927f421f484ea1b865265525d55cbd8241afceef0461cc11d850ec54684633f5"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-sea.pw.toml"
+hash = "07eea77042c1cd16a8b0b4d1c794e7a6b007fa8da35e274d0885466b6be9358a"
+metafile = true
+
+[[files]]
+file = "mods/unusual-furniture.pw.toml"
+hash = "067877d6bdc376fe3aac722694de194fd2f2542fe68b27d7968b21f11645cb09"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "62ca870c6d8ce9ac3721d25e4f283d0916f0fd673260c497e109b03ad7b304fe"
+metafile = true
+
+[[files]]
+file = "mods/useful-ribbits.pw.toml"
+hash = "f3a9594d21cf9b9ee7857e6433e03cf4d58f2be27d51d954dd4f60cbe240dea2"
+metafile = true
+
+[[files]]
+file = "mods/wakes-reforged.pw.toml"
+hash = "16e812c248125ee48f16e35e1a9964564a2ab0faaaf332fc017bf7d766351531"
+metafile = true
+
+[[files]]
+file = "mods/wandering-ribbit.pw.toml"
+hash = "dc060989db2f9d2ac7ddbbdfbd25d9ecf8a18ac535fed707fd079acda6e6986b"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5dbc1ed70c1dd5c99c93d353b6267c6a4e7af2b342d0ad4ddecf54593e199224"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "8c1d85564af53d61caf23b502b60c494d33450a670093fdd3e2f412368682ecc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "9fb6a1a06b18f2ce7b0811200339d997925cb39bde220fbaea4d5c8067376c12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "31fca121c5b55c624ed203937c8f9b4d13cfe32f80bb85405aa4c65238378b15"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "24876f77eefbda53cbeb1b3261dadd63e37f46389d184380e1e3f1f04d1f93f3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "e0d77569aa19c6b72d30cb895cef575837a5740bee489d3ae537edf40a900ab1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "18e0db08323413e9ad0c0959ca71d700f72a53dcd9fa5eb368cacc62c65168db"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "f58f817a74f2b26fca9922263bf3f616deb0ee709212aa944ece857bf47a2d6e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "32d07d192caa9459521c3b3bc21199ebe72d7f6cad9b3461e0b231180f46bb30"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "2eb3e909cc46e39d8b9e762f39c36b0579744118d619beb6a174d264951d6248"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "aedb648ee15bdb7bb3af23cfa4ad565c0fe531f62e89406566bec90659be9a42"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Better Repair Screen.zip"
+hash = "d1b4fbd7d99574168511187479cef3ca34580332cdc56552119920fe8d23d931"
+
+[[files]]
+file = "resourcepacks/Midnighttiggers-FCT-Default_1.20_V8.zip"
+hash = "402bca1cb15c535893f0c8b0eb134393317ffb3c1b860723c645cc9b700d6679"
+
+[[files]]
+file = "resourcepacks/Snow Side Texture v.1.0 - 1.20.x.zip"
+hash = "f06a888d413a246843dc31e2caad850a133710da064897b8f7e64e95043b6a6c"
+
+[[files]]
+file = "resourcepacks/purpura-skies-xaeros-minimap-frame.pw.toml"
+hash = "ceaf11611d2f48a38f03ccee48df9ca7e176b41ca3981df479c5c19132effed3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/§5§lModded §f§lContainers §8§lDark§8.zip"
+hash = "ee11b48376da55640c007911d93f018ea36297075218c93b5b26a931117e8712"
+
+[[files]]
+file = "resourcepacks/§9⛈ §bUnobtrusive Weather §8[v1.5].zip"
+hash = "84b8c0a707ea11bda66ddc39cb03191bcef8bae0a829195898c905dda43e96c8"
+
+[[files]]
+file = "servers.dat"
+hash = "8ad68c5345b7899a67cffb118e78ac5f69b61f083473d6faee028d221f094e1e"
+
+[[files]]
+file = "shaderpacks/IterationRP-Shaders-v0.8.7.zip"
+hash = "1bbe6bf0c086db259a78a3a7e2d98721ab8d91db8f666c33e98993f270efde55"
+
+[[files]]
+file = "shaderpacks/Solas Shader V3.1c.zip"
+hash = "188d2b058210d3e4df1f98c770df3d7022fba930f7c0cfc6ca4490efb0bc2f88"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1-beta9.zip"
+hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"

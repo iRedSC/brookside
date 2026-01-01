@@ -1,0 +1,13 @@
+name = "Tiny Dragons"
+filename = "rpg_companions_tiny_dragons-0.0.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61ddffdd2f65e6ea7334b0320fc964b15f6bf238"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6219374
+project-id = 1169945

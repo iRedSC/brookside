@@ -1,0 +1,13 @@
+name = "Compat Ribbits x TFC"
+filename = "Compat Ribbits xTFC.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "592be641dde6a23ba8be92ce3587418743f22e84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6042879
+project-id = 1104868

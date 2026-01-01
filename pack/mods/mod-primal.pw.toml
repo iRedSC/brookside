@@ -1,0 +1,13 @@
+name = "~Primal~"
+filename = "primal-1.0.6+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d33a019458a128334b9848b0939b38fa5f354ac9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7194602
+project-id = 1351626

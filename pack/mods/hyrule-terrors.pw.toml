@@ -1,0 +1,13 @@
+name = "Zelda: Hyrule Terrors"
+filename = "hyrule_terrors-1.20-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c95350a8b94b270d7eefe9740c7d01e12129195"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7397399
+project-id = 1216095

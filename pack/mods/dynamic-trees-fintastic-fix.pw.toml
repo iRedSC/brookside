@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Fintastic + Ribbits + Cold Sweat + Hybrid Aquatic + Immersive Weathering compat fixes"
+filename = "Dynamic Trees - Modded plants fix 1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6bdc70c16e0cf17b9c4c74ac8d7f7bf2c1b93de9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7157100
+project-id = 1363992

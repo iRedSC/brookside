@@ -1,0 +1,135 @@
+name: Build and Attach Modpacks to Release
+
+on:
+    release:
+        types: [published]
+
+permissions:
+    contents: write
+
+jobs:
+    build-and-attach:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            # -------- SETUP --------
+
+            - name: Set up Go
+              uses: actions/setup-go@v5
+              with:
+                  go-version: "1.24"
+
+            - name: Install Packwiz
+              run: |
+                  go install github.com/packwiz/packwiz@latest
+
+            # -------- PREPARE PACKWIZ CACHE --------
+            # Create the directory and mount import/
+            - name: Prepare import cache
+              run: |
+                  mkdir -p /home/runner/.cache/packwiz/cache/import
+                  cp -r ${{ github.workspace }}/import/* /home/runner/.cache/packwiz/cache/import/
+
+            # -------- VERSION --------
+
+            - name: Read release tag
+              id: version
+              run: |
+                  TAG="${{ github.event.release.tag_name }}"
+                  echo "tag=$TAG" >> $GITHUB_OUTPUT
+
+            # -------- EXPORT CLIENT PACKS --------
+
+            - name: Export CurseForge client pack
+              working-directory: pack
+              run: |
+                  packwiz curseforge export \
+                    --output ../brookside-${{ steps.version.outputs.tag }}-curseforge.zip
+
+            - name: Export Modrinth client pack
+              working-directory: pack
+              run: |
+                  packwiz modrinth export \
+                    --output ../brookside-${{ steps.version.outputs.tag }}-modrinth.zip
+
+            # -------- EXPORT TECHNIC PACK --------
+
+            - name: Prepare Technic pack
+              run: |
+                  TAG="${{ steps.version.outputs.tag }}"
+                  MODRINTH_ZIP="brookside-${TAG}-modrinth.zip"
+                  TECHNIC_ZIP="brookside-technic.zip"
+
+                  mkdir -p technic-extract
+                  unzip -q "$MODRINTH_ZIP" -d technic-extract
+
+                  echo "Initial extracted structure:"
+                  find technic-extract -maxdepth 2 -type d
+
+                  # Ensure required directories exist
+                  mkdir -p technic-extract/overrides/mods
+                  mkdir -p technic-extract/client-overrides/mods
+
+                  echo "Merging client-overrides/mods into overrides/mods..."
+                  cp -r technic-extract/client-overrides/mods/* technic-extract/overrides/mods/ 2>/dev/null || true
+
+                  echo "Zipping entire overrides directory..."
+                  cd technic-extract/overrides
+                  zip -r "../../$TECHNIC_ZIP" ./* >/dev/null
+
+                  cd ../..
+                  echo "Technic pack created: $TECHNIC_ZIP"
+
+            # -------- EXPORT SERVER PACK --------
+
+            - name: Prepare server pack
+              run: |
+                  # define filenames
+                  TAG="${{ steps.version.outputs.tag }}"
+                  MODRINTH_ZIP="brookside-${TAG}-modrinth.zip"
+                  SERVER_ZIP="brookside-${TAG}-mods.zip"
+
+                  # make workspace
+                  mkdir -p server-extract
+                  unzip -q "$MODRINTH_ZIP" -d server-extract
+
+                  # check folder layout for debugging (optional)
+                  echo "Extracted structure:"
+                  find server-extract -maxdepth 2 -type d
+
+                  # ensure overrides/mods exists
+                  if [ ! -d "server-extract/overrides/mods" ]; then
+                    echo "ERROR: overrides/mods not found! Check your modpack structure."
+                    exit 1
+                  fi
+
+                  # copy and zip only overrides/mods
+                  cd server-extract/overrides
+                  zip -r "../../$SERVER_ZIP" mods
+
+                  cd ../..
+                  echo "Server pack created: $SERVER_ZIP"
+
+            # -------- SANITY CHECK --------
+
+            - name: List generated files
+              run: |
+                  ls -lh *.zip
+
+            # -------- UPLOAD TO RELEASE --------
+
+            - name: Upload packs to release
+              run: |
+                  gh release upload \
+                    "${{ github.event.release.tag_name }}" \
+                    brookside-${{ steps.version.outputs.tag }}-mods.zip \
+                    brookside-${{ steps.version.outputs.tag }}-curseforge.zip \
+                    brookside-${{ steps.version.outputs.tag }}-modrinth.zip \
+                    brookside-technic.zip
+              env:
+                  GITHUB_TOKEN: ${{ github.token }}

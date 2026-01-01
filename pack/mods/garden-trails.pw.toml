@@ -1,0 +1,13 @@
+name = "Garden Trails"
+filename = "gardentrails-forge-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c06b29bdbff0d62f64c58c2c7ead71554a1d1a89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7194843
+project-id = 1334659

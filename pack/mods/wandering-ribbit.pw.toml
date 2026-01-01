@@ -1,0 +1,13 @@
+name = "Wandering Ribbit"
+filename = "wandering_ribbit-3.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e37d93e4c319a116131d86557f69b835ccac9714"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7165001
+project-id = 1343754

@@ -1,0 +1,13 @@
+name = "Immersive Weathering + Farmer's Delight: Bark Stripping"
+filename = "farmersdelight_immersive_weathering_cutting_compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "de8fb86294dae2ace17622788210ed09319b5b9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6484651
+project-id = 1256305

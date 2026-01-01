@@ -1,0 +1,13 @@
+name = "Sunken Spires"
+filename = "sunken_spires_1.20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a8f6d99ec5bc556336992fbcecfcf7c32a6b5be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7143517
+project-id = 1367962

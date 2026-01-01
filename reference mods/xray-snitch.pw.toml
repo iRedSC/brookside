@@ -1,0 +1,13 @@
+name = "Xray Snitch"
+filename = "xray_snitch-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b42816dbd5b4024d3f0cf95937e4844177b0299a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6756557
+project-id = 975619

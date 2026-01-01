@@ -1,0 +1,13 @@
+name = "First-person Model"
+filename = "firstperson-forge-2.6.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62ad011fab7f9f1e4f15c0be75f4f4c0373442fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7322454
+project-id = 333287

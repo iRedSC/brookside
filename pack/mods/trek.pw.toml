@@ -1,0 +1,13 @@
+name = "Trek"
+filename = "Trek 1.19-1.21.11 B0.5.1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97b948cc04f673e4e436bec314055f9021f5a141"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7361396
+project-id = 1233784

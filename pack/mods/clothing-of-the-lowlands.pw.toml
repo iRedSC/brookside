@@ -1,0 +1,13 @@
+name = "Clothing of the Lowlands"
+filename = "Clothing_Of_The_Lowlands-1.0.6-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd5325f6cf34e97b65cd2f3675ac1e1729451846"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7029312
+project-id = 1249421
